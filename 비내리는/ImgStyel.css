@@ -1,0 +1,21 @@
+.busstop_transparent{
+    background: url('img/BusStopTransparent.png') no-repeat center;
+    background-size: contain;
+    opacity: .2;
+    z-index: 0;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 600px;
+}
+.busstop_frame{
+    background: url('img/BusStopFrame.png') no-repeat center;
+    background-size: contain;
+    z-index: 0;
+    height: 200px;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 600px;
+}
